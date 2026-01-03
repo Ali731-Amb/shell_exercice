@@ -12,7 +12,6 @@ int main(int ac, char **av)
 		printf("%s,", av[i]);
 		i++;
 	}
-
 	printf("\n");
 	return (0);
 }
